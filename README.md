@@ -54,6 +54,10 @@ If adding or editing a snippet's prefix or description, to keep from having to e
 
 ## Release Notes
 
+### 0.9.5 Alpha
+
+Blender 5 API test
+
 ### 0.9.0 beta
 
 now snippets include templates for Blender python api
@@ -83,3 +87,4 @@ Ideasman42 and others who have contributed to [the Blender Wiki](https://wiki.bl
 Jacques Lucke's awesome Blender addon: [Code Autocomplete](https://www.blendermarket.com/products/code-autocomplete).
 
 Blender developers! for providing the awesome package known as Blender and the python code templates.
+
