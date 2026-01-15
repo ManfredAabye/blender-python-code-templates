@@ -2,11 +2,9 @@
 
 Python snippets for Blender python code.
 
-> [GitHub repository link](https://github.com/nikorummukainen/blender-python-code-templates)
-
-> [Addon at VScode Marketplace](https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates)
-
-> [Blender addon for turning files/blender texteditor content into .json snippets](https://github.com/nikorummukainen/blender-snippet-generator)
+[GitHub repository link](https://github.com/nikorummukainen/blender-python-code-templates)
+[Addon at VScode Marketplace](https://marketplace.visualstudio.com/items?itemName=blenderfreetimeprojects.blender-python-code-templates)
+[Blender addon for turning files/blender texteditor content into .json snippets](https://github.com/nikorummukainen/blender-snippet-generator)
 
 ## Snippets
 
@@ -45,7 +43,7 @@ Python snippets for Blender python code.
 |template&nbsp;ui&nbsp;list|Example of simple ui list class with some filtering and bpy import|
 |template&nbsp;ui&nbsp;menu|Example of ui menu|
 |template&nbsp;ui&nbsp;simple&nbsp;panel|Example of ui panel class with import and register|
-|template&nbsp;ui&nbsp;panel|Example of ui panel class ui panel is created with examples of columns, buttons, rows, properties, with import and register, |
+|template&nbsp;ui&nbsp;panel|Example of ui panel class ui panel is created with examples of columns, buttons, rows, properties, with import and register,|
 |template&nbsp;ui&nbsp;pie&nbsp;menu|Example of 3d viewport pie menu|
 |template&nbsp;dynamic&nbsp;enum|This example script demonstrates a dynamic EnumProperty with custom icons.|
 |template&nbsp;ui&nbsp;previews|This example script demonstrates how to place a custom icon on a button menu entry.|
@@ -57,12 +55,15 @@ If adding or editing a snippet's prefix or description, to keep from having to e
 ## Release Notes
 
 ### 0.9.0 beta
+
 now snippets include templates for Blender python api
 
 ### 0.9.1
+
 removed unnecessary newlines from templates.
 
 ### 0.9.4
+
 added link to marketplace page to README.md
 added github repository to package.json
 added link to github repository to README.md
@@ -73,7 +74,8 @@ mit license
 
 -----------------------------------------------------------------------------------------------------------
 
-# Thanks
+## Thanks
+
 Alan for his [Blender VS Code Debugger](https://github.com/alanscodelog/blender-debugger-for-vscode) addon, it's awesome!
 
 Ideasman42 and others who have contributed to [the Blender Wiki](https://wiki.blender.org) for providing instructions on [how to build Blender as python module](https://wiki.blender.org/index.php/User:Ideasman42/BlenderAsPyModule). Now my linter understands Blender.

@@ -1,8 +1,8 @@
 {
     "name": "blender-python-code-templates",
-    "displayName": "Blender Python Code Templates",
+    "displayName": "Blender 5 API Python Code Templates",
     "description": "Templates for Blender Addon development. Templates translated are from Blender python templates and from Jacques Lucke's Code Autocomplete addon with my own additions.",
-    "version": "0.9.4",
+    "version": "0.9.5",
     "publisher": "blenderfreetimeprojects",
     "license": "MIT",
     "icon": "images/icon.png",
@@ -14,7 +14,7 @@
         "url": "https://github.com/nikorummukainen/blender-python-code-templates/issues"
     },
     "engines": {
-        "vscode": "^1.19.0"
+        "vscode": "^1.108.1"
     },
     "categories": [
         "Snippets"
